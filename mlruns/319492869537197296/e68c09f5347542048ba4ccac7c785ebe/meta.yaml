@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/319492869537197296/e68c09f5347542048ba4ccac7c785ebe/artifacts
+end_time: 1749499897849
+entry_point_name: ''
+experiment_id: '319492869537197296'
+lifecycle_stage: active
+run_id: e68c09f5347542048ba4ccac7c785ebe
+run_name: useful-duck-92
+run_uuid: e68c09f5347542048ba4ccac7c785ebe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749499872361
+status: 3
+tags: []
+user_id: Eliot

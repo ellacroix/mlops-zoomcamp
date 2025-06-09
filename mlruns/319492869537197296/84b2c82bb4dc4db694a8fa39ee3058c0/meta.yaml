@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/319492869537197296/84b2c82bb4dc4db694a8fa39ee3058c0/artifacts
+end_time: 1749500203743
+entry_point_name: ''
+experiment_id: '319492869537197296'
+lifecycle_stage: active
+run_id: 84b2c82bb4dc4db694a8fa39ee3058c0
+run_name: languid-ox-16
+run_uuid: 84b2c82bb4dc4db694a8fa39ee3058c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749500177598
+status: 4
+tags: []
+user_id: Eliot

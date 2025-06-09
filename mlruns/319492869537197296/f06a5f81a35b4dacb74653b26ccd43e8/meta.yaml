@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/319492869537197296/f06a5f81a35b4dacb74653b26ccd43e8/artifacts
+end_time: 1749500249096
+entry_point_name: ''
+experiment_id: '319492869537197296'
+lifecycle_stage: active
+run_id: f06a5f81a35b4dacb74653b26ccd43e8
+run_name: brawny-shrimp-536
+run_uuid: f06a5f81a35b4dacb74653b26ccd43e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749500216912
+status: 3
+tags: []
+user_id: Eliot

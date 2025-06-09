@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/319492869537197296/ad62f2e749d54b8ea98468177351c013/artifacts
+end_time: 1749500156167
+entry_point_name: ''
+experiment_id: '319492869537197296'
+lifecycle_stage: active
+run_id: ad62f2e749d54b8ea98468177351c013
+run_name: adventurous-moth-906
+run_uuid: ad62f2e749d54b8ea98468177351c013
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749500130542
+status: 4
+tags: []
+user_id: Eliot
